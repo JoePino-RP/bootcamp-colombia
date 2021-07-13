@@ -1,8 +1,27 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import PokedexScreen from '../PokedexScreen/PokedexScreen'
-import pokemons from '../../../utils/pokemons.json'
 import './Pokedex.css'
+
+const BASE_URL = 'https://pokeapi.co/api/v2'
+
+async function getPokemon(numberOrName) {
+  try {
+    const request = await fetch(`${BASE_URL}/pokemon/${numberOrName}`)
+    const response = await request.json()
+    return {
+      succes: true,
+      data: response,
+      error: null,
+    }
+  } catch (error) {
+    return {
+      succes: false,
+      data: null,
+      error,
+    }
+  }
+}
 
 class Pokedex extends React.Component {
   constructor(props) {
@@ -25,15 +44,11 @@ class Pokedex extends React.Component {
     })
   }
 
-  handleSubmit(event) {
+  async handleSubmit(event) {
     event.preventDefault();
-    const newPokemon = pokemons
-      .find(pokemon => 
-        pokemon.name === this.state.pokemonToSearch
-        || pokemon.id === Number(this.state.pokemonToSearch)
-      )
+    const response = await getPokemon(this.state.pokemonToSearch)
     this.setState({
-      selectedPokemon: newPokemon
+      selectedPokemon: response.data
     })
   }
 
