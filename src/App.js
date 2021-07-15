@@ -7,7 +7,6 @@ import './App.css'
 import TypesScene from './components/types/TypesScene'
 import TypesSceneWithHooks from './components/types/TypesSceneWithHooks'
 
-
 const routes = [
   { to: '/', label: 'Pokedex', exact: true },
   { to: '/type', label: 'Types', exact: false },
