@@ -1,0 +1,16 @@
+.Types-scene {
+  display: flex;
+}
+
+.Types-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.Types-list button {
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  margin: 3px;
+  cursor: pointer;
+}

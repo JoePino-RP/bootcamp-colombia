@@ -1,0 +1,69 @@
+.Pokedex-screen-container {
+  background-image: url('https://www.publicdomainpictures.net/pictures/270000/velka/grid-graph-paper-background-1537256532TAl.jpg');
+  background-size: contain;
+  border: 3pt solid var(--dimgray);
+  display: flex;
+  flex: 1;
+  margin: auto;
+  width: 85%;
+}
+
+.Pokedex-screen {
+  display: flex;
+  flex: 1;
+  margin: auto;
+  width: 85%;
+}
+
+.Pokedex-screen-image {
+  background-color: rgba(0,0,0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2pt solid var(--dimgray);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin: auto ;
+}
+
+.Pokedex-screen-image > img {
+  width: 100px;
+}
+
+.Pokedex-screen-data-column {
+  margin: 5px 0px;
+  width: 100%;
+}
+
+.Pokedex-screen-right-row,
+.Pokedex-screen-left-row {
+  background-color: var(--lightgray);
+  border-radius: 15px;
+  box-shadow: 2px 3px 0px 0px #8a8984;
+  margin-bottom: 5px;
+  padding: 10px;
+  text-transform: capitalize;
+}
+
+.Pokedex-screen-data-row .Pokedex-screen-right-row {
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+  margin-left: 25px;
+  box-shadow: -2px 3px 0px 0px #8a8984;
+  text-align: end;
+}
+
+.Pokedex-screen-data-row .Pokedex-screen-left-row {
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  margin-right: 25px;
+}
+
+.Pokemon-screen-types {
+  display: flex;
+}
+
+.Pokedex-screen-pokemon-dimensions {
+  display: flex;
+  justify-content: space-between;
+}

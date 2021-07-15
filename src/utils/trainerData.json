@@ -1,0 +1,231 @@
+{
+  "name": "Gilary Franco",
+  "image": "https://ca.slack-edge.com/TCQ48HXNV-U0151E00X0T-64f4a1752fb2-512",
+  "badges": [
+    {
+      "region": "Kanto",
+      "badges": [
+        {
+          "name": "Boulder Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/39/latest/20180812014627/Medalla_Roca.png/105px-Medalla_Roca.png",
+          "captured": true
+        },
+        {
+          "name": "Cascade Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/60/latest/20180812013531/Medalla_Cascada.png/83px-Medalla_Cascada.png",
+          "captured": true
+        },
+        {
+          "name": "Thunder Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e6/latest/20180812014833/Medalla_Trueno.png/105px-Medalla_Trueno.png",
+          "captured": true
+        },
+        {
+          "name": "Rainbow Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/09/latest/20180812034547/Medalla_Arco%C3%ADris.png/105px-Medalla_Arco%C3%ADris.png",
+          "captured": true
+        },
+        {
+          "name": "Soul Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c5/latest/20180812035225/Medalla_Alma.png/105px-Medalla_Alma.png",
+          "captured": true
+        },
+        {
+          "name": "Marsh Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c2/latest/20180812035607/Medalla_Pantano.png/105px-Medalla_Pantano.png",
+          "captured": true
+        },
+        {
+          "name": "Soul Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/93/latest/20180812035749/Medalla_Volc%C3%A1n.png/105px-Medalla_Volc%C3%A1n.png",
+          "captured": true
+        },
+        {
+          "name": "Earth Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/16/latest/20180812035006/Medalla_Tierra.png/128px-Medalla_Tierra.png",
+          "captured": true
+        }
+      ]
+    },
+    {
+      "region": "Johto",
+      "badges": [
+        {
+          "name": "Zephyr Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/e/ee/latest/20070909112251/Medalla_C%C3%A9firo.png",
+          "captured": true
+        },
+        {
+          "name": "Hive Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/e/ee/latest/20070909112556/Medalla_Colmena.png",
+          "captured": true
+        },
+        {
+          "name": "Plain Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/8/8d/latest/20090124182916/Medalla_Planicie.png",
+          "captured": true
+        },
+        {
+          "name": "Fog Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/c/c2/latest/20070909112820/Medalla_Niebla.png",
+          "captured": true
+        },
+        {
+          "name": "Storm Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/2/2d/latest/20070909112900/Medalla_Tormenta.png",
+          "captured": true
+        },
+        {
+          "name": "Mineral Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/6/6a/latest/20070909112954/Medalla_Mineral.png",
+          "captured": true
+        },
+        {
+          "name": "Glacier Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/f/f8/latest/20070909113044/Medalla_Glaciar.png",
+          "captured": true
+        },
+        {
+          "name": "Rising Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/4/4d/latest/20070909113209/Medalla_Drag%C3%B3n.png",
+          "captured": true
+        }
+      ]
+    },
+    {
+      "region": "Hoenn",
+      "badges": [
+        {
+          "name": "Stone Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/ff/latest/20140714195114/Medalla_Piedra.png/105px-Medalla_Piedra.png",
+          "captured": true
+        },
+        {
+          "name": "Knuckle Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/85/latest/20140714200249/Medalla_Pu%C3%B1o.png/105px-Medalla_Pu%C3%B1o.png",
+          "captured": true
+        },
+        {
+          "name": "Dynamo Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/18/latest/20140714195609/Medalla_Dinamo.png/105px-Medalla_Dinamo.png",
+          "captured": true
+        },
+        {
+          "name": "Heat Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/5c/latest/20140714194523/Medalla_Calor.png/105px-Medalla_Calor.png",
+          "captured": true
+        },
+        {
+          "name": "Balance Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e7/latest/20140714195342/Medalla_Equilibrio.png/105px-Medalla_Equilibrio.png",
+          "captured": true
+        },
+        {
+          "name": "Feather Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b3/latest/20141123204133/Medalla_Pluma.png/105px-Medalla_Pluma.png",
+          "captured": true
+        },
+        {
+          "name": "Mind Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a0/latest/20141123204057/Medalla_Mente.png/105px-Medalla_Mente.png",
+          "captured": true
+        },
+        {
+          "name": "Rain Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/47/latest/20141123203757/Medalla_Lluvia.png/105px-Medalla_Lluvia.png",
+          "captured": true
+        }
+      ]
+    },
+    {
+      "region": "Sinnoh",
+      "badges": [
+        {
+          "name": "Coal Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0b/latest/20140218004352/Medalla_Lignito.png/105px-Medalla_Lignito.png",
+          "captured": true
+        },
+        {
+          "name": "Forest Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/75/latest/20090913184353/Medalla_Bosque.png/105px-Medalla_Bosque.png",
+          "captured": true
+        },
+        {
+          "name": "Cobble Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/a5/latest/20090913184422/Medalla_Adoqu%C3%ADn.png/105px-Medalla_Adoqu%C3%ADn.png",
+          "captured": true
+        },
+        {
+          "name": "Fen Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/73/latest/20090913184439/Medalla_Ci%C3%A9naga.png/105px-Medalla_Ci%C3%A9naga.png",
+          "captured": true
+        },
+        {
+          "name": "Relic Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e2/latest/20090913184435/Medalla_Reliquia.png/105px-Medalla_Reliquia.png",
+          "captured": true
+        },
+        {
+          "name": "Mine Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7c/latest/20090913184450/Medalla_Mina.png/105px-Medalla_Mina.png",
+          "captured": true
+        },
+        {
+          "name": "Icicle Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/06/latest/20090913184349/Medalla_Car%C3%A1mbano.png/105px-Medalla_Car%C3%A1mbano.png",
+          "captured": true
+        },
+        {
+          "name": "Beacon Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7b/latest/20140225235114/Medalla_Faro.png/105px-Medalla_Faro.png",
+          "captured": true
+        }
+      ]
+    },
+    {
+      "region": "Teselia",
+      "badges": [
+        {
+          "name": "Trio Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/31/latest/20120628043243/Medalla_Tr%C3%ADo.png/105px-Medalla_Tr%C3%ADo.png",
+          "captured": false
+        },
+        {
+          "name": "Basic Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e8/latest/20120628043241/Medalla_Base.png/105px-Medalla_Base.png",
+          "captured": false
+        },
+        {
+          "name": "Insect Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/e/e2/latest/20120628043240/Medalla_%C3%89litro.png",
+          "captured": false
+        },
+        {
+          "name": "Volt Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/93/latest/20130915183232/Medalla_Voltio.png/105px-Medalla_Voltio.png",
+          "captured": false
+        },
+        {
+          "name": "Quake Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/c3/latest/20120628043242/Medalla_Temblor.png/105px-Medalla_Temblor.png",
+          "captured": false
+        },
+        {
+          "name": "Jet Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/80/latest/20120628043242/Medalla_Jet.png/105px-Medalla_Jet.png",
+          "captured": false
+        },
+        {
+          "name": "Freeze Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2c/latest/20120628043241/Medalla_Candelizo.png/105px-Medalla_Candelizo.png",
+          "captured": false
+        },
+        {
+          "name": "Legend Badge",
+          "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f3/latest/20120628043242/Medalla_Leyenda.png/105px-Medalla_Leyenda.png",
+          "captured": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+.Trainer-card {
+  border: 2pt solid #000;
+  display: flex;
+  background-color: var(--dimgray);
+  border-radius: 10px;
+  max-width: 500px;
+  padding: 20px;
+  margin: auto;
+}
+
+.Trainer-image {
+  border: 2pt solid #000;
+  border-radius: 5px;
+  width: 30%;
+}
+
+.Trainer-image img{
+  width: 100%;
+}
+
+.Trainer-detail {
+  margin-left: 20px;
+}
+
+.Trainer-name {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 500;
+  margin-bottom: 7px;
+}
+
+.Trainer-medal-region {
+  color: rgb(209, 206, 206);
+}
+
+.Trainer-medal-region span {
+  margin-right: 10px;
+}
+
+.Trainer-medal {
+  width: 20px;
+}
+
+.Trainer-medal-missing {
+  opacity: 0.3;
+}

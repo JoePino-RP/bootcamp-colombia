@@ -1,0 +1,43 @@
+.Pokemon-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.Pokemon-row-left,
+.Pokemon-row-right {
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.Pokemon-row-right {
+  width: 30%;
+  justify-content: space-around;
+}
+
+.Pokemon-row-remove {
+  background-color: #b22222;
+  border-radius: 50%;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+}
+
+.Pokemon-row-edit {
+  border: none;
+  cursor: pointer;
+  height: 30px;
+  padding: 0;
+  width: 30px;
+  background-color: transparent;
+}
+
+.Pokemon-row-edit img { 
+  width: 30px;
+  display: flex;
+  align-items: center;
+}
