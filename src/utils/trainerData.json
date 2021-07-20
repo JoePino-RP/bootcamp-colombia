@@ -1,6 +1,6 @@
 {
-  "name": "Gilary Franco",
-  "image": "https://ca.slack-edge.com/TCQ48HXNV-U0151E00X0T-64f4a1752fb2-512",
+  "name": "Joseph Enrique Rojas Pulido",
+  "image": "https://ca.slack-edge.com/T025RSVTTML-U026NCA1F7A-925c83d77363-1024",
   "badges": [
     {
       "region": "Kanto",
@@ -158,27 +158,27 @@
         {
           "name": "Fen Badge",
           "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/73/latest/20090913184439/Medalla_Ci%C3%A9naga.png/105px-Medalla_Ci%C3%A9naga.png",
-          "captured": true
+          "captured": false
         },
         {
           "name": "Relic Badge",
           "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e2/latest/20090913184435/Medalla_Reliquia.png/105px-Medalla_Reliquia.png",
-          "captured": true
+          "captured": false
         },
         {
           "name": "Mine Badge",
           "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7c/latest/20090913184450/Medalla_Mina.png/105px-Medalla_Mina.png",
-          "captured": true
+          "captured": false
         },
         {
           "name": "Icicle Badge",
           "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/06/latest/20090913184349/Medalla_Car%C3%A1mbano.png/105px-Medalla_Car%C3%A1mbano.png",
-          "captured": true
+          "captured": false
         },
         {
           "name": "Beacon Badge",
           "imageSrc": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/7b/latest/20140225235114/Medalla_Faro.png/105px-Medalla_Faro.png",
-          "captured": true
+          "captured": false
         }
       ]
     },
